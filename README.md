@@ -7,6 +7,8 @@ Universal script (Support Non root and root devices)
 
 If your device doesn't have this issue then just don't download and install it
 
+
+
 How To Install:
 Non root: use adb shell to install,example:adb shell sh (the file in the directory) 
 
